@@ -18,6 +18,8 @@ public class GitTest2 {
 		System.out.println("Git test 4");
 		System.out.println("Git test 5");
 		System.out.println("Git test 6");
+		System.out.println("Git test 7");
+		System.out.println("Git test 8");
 	}
 
 }
